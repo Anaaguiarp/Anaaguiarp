@@ -7,6 +7,8 @@
 - 😃 Pronomes: Ela / Dela
 - 🏃‍♀️ Buscando estágio
 
+##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaaguiarp&show_icons=true&theme=dark)
 
 ##
