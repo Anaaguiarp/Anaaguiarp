@@ -1,5 +1,7 @@
 ## Olá, mundo 👋
 
+![Untitled-Made-with-FlexClip-1--unscreen](https://github.com/user-attachments/assets/4713f2c9-3a89-4f23-8767-cd064bc2b355)
+
 - 📚 Cursando ADS (Análise e Desenvolvimento de Sistemas)
 - 🌱 Estou estudando Python
 - 😃 Pronomes: Ela / Dela
@@ -14,4 +16,5 @@
   <a href = "mailto:anacarolinaaguiarp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/anacarolina_a.p._?igsh=ZThid3A5cDV2ZGc5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-  <a href="https://cdn.picrew.me/shareImg/org/202407/2177347_CIzF9tfY.png"></a>
+  
+##  
