@@ -8,9 +8,12 @@
 - 🏃‍♀️ Buscando estágio 
 
 ##
-
+<div> <p align="right"> 
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaaguiarp&show_icons=true&theme=radical)
-
+ ![download (2)](https://github.com/user-attachments/assets/fe370cd6-8302-4eaa-90bd-d7a670c68841) 
+ 
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/ana-carolina-aguiar-pereira-888a16232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
