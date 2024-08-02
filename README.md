@@ -11,7 +11,7 @@
 <div> <p align="right"> 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaaguiarp&show_icons=true&theme=radical)
- ![download (2)](https://github.com/user-attachments/assets/fe370cd6-8302-4eaa-90bd-d7a670c68841) 
+ ![download (5)](https://github.com/user-attachments/assets/f6731258-f339-4170-8945-dd85f7061b67)
  
 </div>
 
