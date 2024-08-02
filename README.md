@@ -1,6 +1,6 @@
 ## Olá, mundo 👋
 
-![Untitled-Made-with-FlexClip-1--unscreen](https://github.com/user-attachments/assets/4713f2c9-3a89-4f23-8767-cd064bc2b355)
+ ![download (1)](https://github.com/user-attachments/assets/b73b6ab7-1657-411b-b0c6-13348d0de555)
 
 - 📚 Cursando ADS (Análise e Desenvolvimento de Sistemas)
 - 🌱 Estou estudando Python
