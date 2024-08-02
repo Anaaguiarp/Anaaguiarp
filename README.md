@@ -1,11 +1,11 @@
 ## Olá, mundo 👋
 
- ![download (1)](https://github.com/user-attachments/assets/b73b6ab7-1657-411b-b0c6-13348d0de555)
+ ![download (1)](https://github.com/user-attachments/assets/b73b6ab7-1657-411b-b0c6-13348d0de555) 
 
-- 📚 Cursando ADS (Análise e Desenvolvimento de Sistemas)
+- 📚 Cursando ADS (Análise e Desenvolvimento de Sistemas) 
 - 🌱 Estou estudando Python
 - 😃 Pronomes: Ela / Dela
-- 🏃‍♀️ Buscando estágio
+- 🏃‍♀️ Buscando estágio 
 
 ##
 
