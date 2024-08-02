@@ -8,7 +8,7 @@
 - 🏃‍♀️ Buscando estágio 
 
 ##
-<div> <p align="right"> 
+<div> <p align="center"> 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaaguiarp&show_icons=true&theme=radical)
  ![download (5)](https://github.com/user-attachments/assets/f6731258-f339-4170-8945-dd85f7061b67)
