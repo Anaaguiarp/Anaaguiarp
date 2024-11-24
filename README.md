@@ -1,4 +1,4 @@
-## Olá, mundo 👋
+## Olá, prazer sou a Ana Carolina 👋
 ![download](https://github.com/user-attachments/assets/268c53c1-53d7-4aef-b064-eb7a71b2ed0c)
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (2° Semestre)
 - 🌱 Estou estudando Lógica de Programação
