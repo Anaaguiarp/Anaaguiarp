@@ -1,6 +1,6 @@
 ## Olá, prazer sou a Ana Carolina 👋
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (3° Semestre)
-- 🌱 Estou estudando Java
+- 🌱 Estou estudando Javascript
 - 🧗🏻‍♀️ Praticando minha Lógica de Programação
 - 🏃🏽‍♀️ *Em busca de um estágio*
 - 🙋🏽‍♀️ Pronomes: Ela / Dela
