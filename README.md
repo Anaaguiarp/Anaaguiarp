@@ -2,7 +2,6 @@
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (3° Semestre)
 - 🌱 Estou estudando Javascript
 - 🧗🏻‍♀️ Praticando minha Lógica de Programação
-- 🏃🏽‍♀️ *Em busca de um estágio*
 ##
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Anaaguiarp&show_icons=true&theme=tokyonight">
