@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/8e1940b3-898a-484a-9fe6-b3276d2f0665">
+
 ## Olá, prazer sou a Ana Carolina 👋
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (3° Semestre)
 - 🌱 Estou estudando Javascript
@@ -6,5 +8,4 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Anaaguiarp&show_icons=true&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaaguiarp&layout=compact&theme=dracula">
-
 </div>
