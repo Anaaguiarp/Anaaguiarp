@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellooo;Welcome+to+my+word!!&color=ffdaa6&font=Pixelify+Sans&size=40&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellooo;Welcome+to+my+world!!&color=ffdaa6&font=Pixelify+Sans&size=40&pause=1000)](https://git.io/typing-svg)
 
 ## Educação 🎓
 ➡️ Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento) [Universidade Positivo]
