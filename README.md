@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellooo;Welcome+to+my+world!!&color=ffdaa6&font=Pixelify+Sans&size=40&pause=1000)](https://git.io/typing-svg)
 
+## Sobre mim 💬
+Sou desenvolvedora em formação, focada em Back-end, mas sempre explorando o Front-end. Meu objetivo a longo prazo é me tornar Fullstack. Gosto de transformar ideias em código, aprender coisas novas e colaborar na criação de soluções que realmente façam a diferença.
+
 ## Educação 🎓
 ➡️ Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento) [Universidade Positivo]
 
