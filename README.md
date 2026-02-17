@@ -51,14 +51,14 @@ Sou formada em Análise e Desenvolvimento de Sistemas e atualmente atuo como Ana
   <a href="https://www.linkedin.com/in/ana-carolina-aguiar-pereira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-</div>
-
-###
-
-<div display="inline-block" align="center">
-  <img src="https://github.com/user-attachments/assets/99b4468c-41d2-4297-b351-7afc3a55bd63" width="150" height="150" />
-  <img src="https://github.com/user-attachments/assets/c65d1cee-930b-47f8-a0c4-55fccdfe6e1f" width="150" height="150" />
-  <img src="https://github.com/user-attachments/assets/5ae49a5e-ecf2-47a6-a2b6-d99b55c0874f" width="150" height="150" />
   
-  /* ~~ERROR~~ */
+  
+</div>
+  
+<div align="right">
+  
+  <img width="250" alt="Image" src="https://github.com/user-attachments/assets/a0418c3c-6273-4224-acc1-bc36b96e0d8d" />
+  <br>
+  <sub>I work for her.</sub>
+  
 </div>
