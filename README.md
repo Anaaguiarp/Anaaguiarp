@@ -3,13 +3,13 @@
 ## About Me 💬
 EN
 
-I am a developer in training, focused and constantly interested in expanding my knowledge to become a fullstack developer in the future. I like learning, improving technically, and turning ideas into functional and well-structured solutions.
+I am a Software Developer with a strong focus on continuously expanding my knowledge in fullstack development. I enjoy learning, growing technically, and turning ideas into functional, well-structured solutions.
 
-I have a degree in Systems Analysis and Development and currently work as an IT Analyst at Tata Consultancy Services. I take my career seriously and I am always looking to improve my skills and apply what I learn in practice. I have already had contact with the Quality area, an experience that expanded my view on best practices and building software with more responsibility. My goal is to grow as a Software Developer and become an increasingly prepared and consistent professional.
+I hold a degree in Systems Analysis and Development and currently work as an IT Analyst at Tata Consultancy Services. I take my career seriously and consistently look for ways to improve my skills and apply what I learn in practice. I have also had exposure to the Quality area, an experience that broadened my perspective on best practices and building software with greater responsibility. My goal is to grow as a Software Developer and become an increasingly well-prepared and consistent professional.
 
 BR
 
-Sou desenvolvedora em formação, com foco e interesse constante em ampliar meus conhecimentos para me tornar fullstack no futuro. Gosto de aprender, evoluir tecnicamente e transformar ideias em soluções funcionais e bem estruturadas.
+Sou desenvolvedora de software, com foco e interesse constante em ampliar meus conhecimentos em desenvolvimento fullstack. Gosto de aprender, evoluir tecnicamente e transformar ideias em soluções funcionais e bem estruturadas.
 
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente atuo como Analista de TI na Tata Consultancy Services. Levo minha carreira com seriedade e estou sempre buscando aprimorar minhas habilidades e aplicar o que aprendo na prática. Já tive contato com a área de qualidade, experiência que ampliou minha visão sobre boas práticas e construção de software com mais responsabilidade. Meu objetivo é crescer como Desenvolvedora de Software e me tornar uma profissional cada vez mais preparada e consistente.
 
